@@ -1,2 +1,5 @@
-# hello-world
-Repositorio de teste 
+# Olá, Mundo!
+
+Primeiro repositório.
+
+Repositorio de curso de Git e GitHub
